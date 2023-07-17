@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **samuelsierrabarrios9@gmail.com**
 
-<!-- CONTACTO -->
+<!-- CONTACTO --->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anderson-mendoza-ramos-7551141b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
